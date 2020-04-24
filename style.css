@@ -382,7 +382,7 @@ div.euthanasiaLeftInner {
 	text-align: center;
 	overflow: hidden;
 }
-div.alert {
+/*div.alert {
 	border: 1px solid #c8ccd1;
 	padding: 3px;
 	float: right;
@@ -392,7 +392,7 @@ div.alert {
 	line-height: 1.4em;
 	padding: 3px;
 	margin: 0 0 5px 15px;
-}
+}*/
 .logo {
 	margin-bottom: 20px;
 }
